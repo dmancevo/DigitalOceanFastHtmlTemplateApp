@@ -1,4 +1,4 @@
-# DigitalOcean-Docker-Streamlit App.
+# DigitalOcean-Docker-FastHTML App.
 
 Simple [FastHTML](https://fastht.ml/docs/) template app to be run on [DigitalOcean](https://m.do.co/c/a42cc842048c) app platform.
 
@@ -13,4 +13,5 @@ To run locally, try:
 ```
 cd app
 uv run app.py
+
 ```
